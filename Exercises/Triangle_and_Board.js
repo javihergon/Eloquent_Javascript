@@ -5,6 +5,16 @@ var num = 7;
   console.log(numberSymbol);
   }
 
+/*
+#
+##
+###
+####
+#####
+######
+#######
+*/
+
 //-----------------------------------------------
 
 var size = 8;
@@ -20,3 +30,14 @@ for(var i = 0; i < size; i++) {
     board = board + "\n";         // adds a line break
   }
   console.log(board); 
+
+/*
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+*/
